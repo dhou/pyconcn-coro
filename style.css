@@ -1,0 +1,10 @@
+pre.sh_sourceCode {
+	word-wrap: break-word;
+}
+
+.bullets > ul > li {
+	text-align: left;
+	list-style: initial;
+	margin-left: 100px;
+}
+
