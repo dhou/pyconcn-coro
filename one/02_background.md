@@ -44,7 +44,7 @@
 # Challenges of SNS apps and games
 
 * Highly viral 
-	* hundreds of thousands of new users a day
+	* millions of new users a day
 * High concurrency
 	* more than 117 million unique monthly viewers
 	* millions of daily active users

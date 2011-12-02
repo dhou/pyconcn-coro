@@ -20,7 +20,7 @@
 	file_handler = HttpFileHandler('/home/htdocs/')
 	server.push_handler(file_handler)
 	server.start()
-	coro.event_loop(30.0)
+	coro.event_loop()
 
 
 <!SLIDE bullets incremental>

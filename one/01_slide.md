@@ -25,5 +25,12 @@
 
 
 <!SLIDE>
+# Zen of Python
+
+	@@@ python
+	import this
+
+
+<!SLIDE>
 ## View this online
 ## http://dhou.github.com/pyconcn-coro
