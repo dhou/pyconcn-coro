@@ -53,7 +53,7 @@
 <!SLIDE bullets incremental>		
 # State of Python servers ca. 2005
 
-* Not many choices
+* Not many good choices
 * Apache + mod_python
 * Twisted
 
